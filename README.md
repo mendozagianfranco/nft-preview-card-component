@@ -1,2 +1,2 @@
 # NFT preview card compoment
-[View Demo](https://neutron8023.github.io/nft-preview-card-component/)
+[View Demo](https://elkcloner08.github.io/nft-preview-card-component/)
